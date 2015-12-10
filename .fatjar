@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Dec 10 18:00:39 BRST 2015
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=RASimples.jar
+manifest.mergeall=true
+manifest.mainclass=br.com.rasimples.start.RASimples
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
